@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+}
+
+.first-div {
+    background-color: black;
+    margin-inline: auto;
+    padding: 50px;
+}
+
+.first-image {
+    width: 100;
+}
+
+.second-div {
+    background-image: url(./Esercizio/images/banner.jpg);
+    text-align: center;
+    padding: 50px;
+}
+
+
+button {
+    margin-top: 20px;
+    background-color: #f04c2f;
+    padding: 15px;
+    font-size: 1.2rem;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.thirdth-div {
+    text-align: center;
+    padding: 30px;
+}
+
+
+.p-color {
+    color: rgb(23, 170, 170);
+    font-size: 2rem;
+    padding: 20px;
+}
+.central-p {
+    line-height: 1.4;
+font-size: 1.4rem
+}
+
+.second-logo {
+    margin-inline: auto;
+    padding: 50px;
+}
+
+.second-logo img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.down-foto {
+    padding: 20px;
+}
+
+.colored-div {
+    background-color: #f04c2f;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+.colored-div p {
+    font-size: 1.5rem;
+    padding: 20px;
+}
+
+.colored-div span {
+    font-size: 1rem;
+}
+
+.second-img {
+    margin-inline: auto;
+    margin: 20px;
+    border: solid #dee1e3;
+    border-width: 1px;
+}
+
+
+.second-img img {
+    width: 100%;
+}
+.second-img div {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.border {
+border: solid;
+}
+
+.final-div {
+    text-align: center;
+    background-color: #25a2c3;
+    color: white;
+    padding: 50px;
+
+}
+
+.final-div span {
+    font-size: 2rem;
+}
+.footer-div {
+    padding: 20px;
+    line-height: 1.5;
+}
